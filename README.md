@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! <br>My name is Jana, and I'm a Data Analyst and Coding Enthusiast from Germany!</h2>
+![Light Mode](banner_lightmode.svg#gh-light-mode-only)
+![Dark Mode](banner_darkmode.svg#gh-dark-mode-only)
 
 ###
 
@@ -39,7 +40,11 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/JaKl24/JaKl24/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
 <!--
