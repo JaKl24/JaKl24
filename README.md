@@ -5,15 +5,23 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaKl24&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaKl24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="center">About Me</h3>
+<p align="center">I'm a technology enthusiast with a passion for technical development, data, and innovation. 
+                  I love diving into data sets, solving complex problems, and turning ideas into reality. Beyond the code, I believe in clear 
+                  communication—because even the best solutions need great explanations. Whether it's clean, efficient code or well-documented projects, I aim 
+                  to make tech more accessible and impactful.</p>
+
+<h3 align="center">What I like to do</h3>
+<ul>
+  <li>Exploring environmental studies and how technology can drive sustainability</li>
+  <li>Deepening my Python skills and tackling more advanced concepts</li>
+  <li>Branching into front-end development to expand my coding toolkit</li>
+</ul>
 
 ###
 
 <div align="left">
-  <h3>TECH STACK</h3>
+  <h3>Tech Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -31,7 +39,10 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaKl24&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaKl24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
