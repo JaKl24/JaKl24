@@ -5,8 +5,10 @@
 
 ###
 <br>
-<img src="profile_lm.svg#gh-light-mode-only">
+<div align="center">
+  <img src="profile_lm.svg#gh-light-mode-only">
   <img src="profile_dm.svg#gh-dark-mode-only">
+</div>
 <br>
 <hr>
 <hr>
