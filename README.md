@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="lm_banner.svg#gh-light-mode-only">
-  <img src="dm_banner.svg#gh-dark-mode-only">
+  <img src="banner_lightmode.svg#gh-light-mode-only">
+  <img src="banner_darkmode.svg#gh-dark-mode-only">
 </p>
 
 ###
