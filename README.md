@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="banner_lightmode.svg#gh-light-mode-only" alt="Light Mode Banner">
-  <img src="banner_darkmode.svg#gh-dark-mode-only" alt="Dark Mode Banner">
+  <img src="banner_lightmode.svg#gh-light-mode-only?" alt="Light Mode Banner">
+  <img src="banner_darkmode.svg#gh-dark-mode-only?" alt="Dark Mode Banner">
 </p>
 
 ###
@@ -47,7 +47,10 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/jana-klesper" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+         width="52" height="40" alt="LinkedIn logo" />
+  </a>
 </div>
 
 ###
