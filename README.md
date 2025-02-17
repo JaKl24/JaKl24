@@ -6,8 +6,8 @@
 ###
 <br>
 <div align="center">
-  <img src="profile_lm.svg#gh-light-mode-only">
-  <img src="profile_dm.svg#gh-dark-mode-only">
+  <img src="profile_lightmode.svg#gh-light-mode-only">
+  <img src="profile_darkmode.svg#gh-dark-mode-only">
 </div>
 <br>
 <hr>
