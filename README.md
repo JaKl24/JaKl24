@@ -5,22 +5,22 @@
 
 ###
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 <p align="center">I'm a technology enthusiast with a passion for technical development, data, and innovation. 
                   I love diving into data sets, solving complex problems, and turning ideas into reality. Beyond the code, I believe in clear 
                   communication—because even the best solutions need great explanations. Whether it's clean, efficient code or well-documented projects, I aim 
                   to make tech more accessible and impactful.</p>
-
-<h3 align="center">What I like to do</h3>
+<br>
+<h2 align="center">What I do</h2>
 
 <p align="center">:leaves: Exploring environmental studies and how technology can drive sustainability :leaves:</p>
 <p align="center">:snake: Deepening my Python skills and tackling more advanced concepts :snake:</p>
 <p align="center">:signal_strength: Branching into front-end development to expand my coding toolkit :signal_strength:</p>
-
-###
-
 <br>
-<div align="left">
+<hr>
+<hr>
+
+<div align="center">
   <h3>Tech Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -51,7 +51,8 @@
 </div>
 
 ###
-
+<hr>
+<hr>
 <br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
