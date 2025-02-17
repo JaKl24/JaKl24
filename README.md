@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="banner_lightmode.svg#gh-light-mode-only?" alt="Light Mode Banner">
-  <img src="banner_darkmode.svg#gh-dark-mode-only?" alt="Dark Mode Banner">
+  <img src="banner_lightmode.svg#gh-light-mode-only" alt="Light Mode Banner">
+  <img src="banner_darkmode.svg#gh-dark-mode-only" alt="Dark Mode Banner">
 </p>
 
 ###
