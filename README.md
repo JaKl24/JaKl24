@@ -4,7 +4,7 @@
 </p>
 
 ###
-
+<br>
 <h2 align="center">About Me</h2>
 <p align="center">I'm a technology enthusiast with a passion for technical development, data, and innovation. 
                   I love diving into data sets, solving complex problems, and turning ideas into reality. Beyond the code, I believe in clear 
@@ -13,7 +13,7 @@
 <br>
 <h2 align="center">What I do</h2>
 
-<p align="center">:leaves: Exploring environmental studies and how technology can drive sustainability :leaves:</p>
+<p align="center">:chart: Exploring data and see how knowledge can drive success :chart:</p>
 <p align="center">:snake: Deepening my Python skills and tackling more advanced concepts :snake:</p>
 <p align="center">:signal_strength: Branching into front-end development to expand my coding toolkit :signal_strength:</p>
 <br>
