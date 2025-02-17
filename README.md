@@ -12,14 +12,14 @@
                   to make tech more accessible and impactful.</p>
 
 <h3 align="center">What I like to do</h3>
-<ul>
-  <li>Exploring environmental studies and how technology can drive sustainability</li>
-  <li>Deepening my Python skills and tackling more advanced concepts</li>
-  <li>Branching into front-end development to expand my coding toolkit</li>
-</ul>
+
+<p align="center">:leaves: Exploring environmental studies and how technology can drive sustainability :leaves:</p>
+<p align="center">:snake: Deepening my Python skills and tackling more advanced concepts :snake:</p>
+<p align="center">:signal_strength: Branching into front-end development to expand my coding toolkit :signal_strength:</p>
 
 ###
 
+<br>
 <div align="left">
   <h3>Tech Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
