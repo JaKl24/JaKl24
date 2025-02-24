@@ -9,8 +9,6 @@
   <img src="profile_lightmode.svg#gh-light-mode-only">
   <img src="profile_darkmode.svg#gh-dark-mode-only">
 </div>
-<br>
-<hr>
 <hr>
 
 <div align="center">
@@ -36,27 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JaKl24&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaKl24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/jana-klesper" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
-         width="52" height="40" alt="LinkedIn logo" />
-  </a>
-</div>
-
-###
-<hr>
-<hr>
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-###
 <!--
 **JaKl24/JaKl24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
